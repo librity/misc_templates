@@ -4,7 +4,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Docs](#docs)
 - [Resources](#resources)
@@ -19,13 +18,13 @@ Write about 1-2 paragraphs describing the purpose of your project.
 
 - `node >= 12.0.0`
 
-### Installing
+### Installation
 
 1. Clone this repo locally and install node packages:
 
 ```bash
-$ git clone https://github.com/librity/ignite_todo_list.git
-$ cd ignite_todo_list
+$ git clone https://github.com/librity/repo_name.git
+$ cd repo_name
 $ yarn install
 ```
 
@@ -42,10 +41,6 @@ Run tests with jest:
 ```bash
 $ yarn test
 ```
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
 
 ## Endpoints <a name = "endpoints"></a>
 
