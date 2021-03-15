@@ -15,10 +15,13 @@ DESCRIPTION
 ## Bash Commands <a name = "bash_commands"></a>
 
 ```bash
+# Intall dependencies
 $ mix deps.get
-$ mix credo gen.config
-$ mix credo
+# Run linter
 $ mix credo --strict
+# Start your project as an Interactive Elixir session
+$ iex -S mix
+# Run tests
 $ mix test
 ```
 
@@ -31,6 +34,7 @@ $ mix test
 ## Docs <a name = "docs"></a>
 
 - https://elixir-lang.org/crash-course.html
+- https://github.com/rrrene/credo
 
 ## Resources <a name = "resources"></a>
 
