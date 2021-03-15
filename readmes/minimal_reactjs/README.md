@@ -1,4 +1,4 @@
-# Project Title
+# TITLE
 
 <p align="center">
   <img src=".github/home.png" />
@@ -14,7 +14,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+DESCRIPTION
 
 ## Getting Started <a name = "getting_started"></a>
 
