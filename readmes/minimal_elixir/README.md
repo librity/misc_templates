@@ -5,6 +5,7 @@
 - [About](#about)
 - [Bash Commands](#bash_commands)
 - [Elixir Commands](#elixir_commands)
+- [Libs](#libs)
 - [Docs](#docs)
 - [Resources](#resources)
 
@@ -31,11 +32,14 @@ $ mix test
 
 ```
 
+## Libs <a name = "libs"></a>
+
+- https://github.com/rrrene/credo
+
 ## Docs <a name = "docs"></a>
 
 - https://elixir-lang.org/crash-course.html
-- https://github.com/rrrene/credo
 
 ## Resources <a name = "resources"></a>
 
--
+- https://www.tutorialspoint.com/elixir/elixir_lists_and_tuples.htm
