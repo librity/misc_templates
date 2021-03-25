@@ -24,10 +24,10 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Installation](#getting_started)
+- [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Technology Stack](#tech_stack)
 - [Github Actions](#github_actions)
+- [42 São Paulo](#ft_sp)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -70,3 +70,16 @@ Add notes about how to use the system.
 
 [Norminette Github Action](https://github.com/AdrianWR/libft/blob/master/.github/workflows/norminette.yaml)
 by [@AdrianWR](https://github.com/AdrianWR)
+
+## 🏫 42 São Paulo <a name = "ft_sp"></a>
+
+Part of the larger [42 Network](https://www.42.fr/42-network/),
+[42 São Paulo](https://www.42sp.org.br/) is a software engineering school
+that offers a healthy alternative to traditional education:
+
+- It doesn't have any teachers or classrooms.
+- Students learn from and correct eachother's work (peer-to-peer learning).
+- The methodology develops technical and social skills.
+- It's completely free to anyone that passes its selection process - **The Piscine**
+
+It's an amazing project, and I'm enjoying every second of it.
