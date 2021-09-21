@@ -9,6 +9,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
+- [Packages](#packages)
 - [Docs](#docs)
 - [Resources](#resources)
 
@@ -29,26 +30,32 @@ DESCRIPTION
 ```bash
 $ git clone https://github.com/librity/repo_name.git
 $ cd repo_name
-$ yarn install
+$ npm install
 ```
 
 2. Start a dev server:
 
 ```bash
-$ yarn dev
+$ npm run dev
 ```
+
+3. Open http://localhost:3000 on your web browser.
 
 ### Testing
 
 Run tests with jest:
 
 ```bash
-$ yarn test
+$ npm run test
 ```
 
 ## Usage <a name = "usage"></a>
 
 Add notes about how to use the system.
+
+## Packages <a name = "packages"></a>
+
+-
 
 ## Docs <a name = "docs"></a>
 
